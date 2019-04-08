@@ -20,7 +20,7 @@ client.login(token)
 ### Giveaway's options object
 | name         | optional | description                                                              | default value   | type   |
 |--------------|----------|--------------------------------------------------------------------------|-----------------|--------|
-| botPrefix    | yes      | This is the prefix your bot will react to.                               | "!"             | string |
+| prefix       | yes      | This is the prefix your bot will react to.                               | "!"             | string |
 | startCmd     | yes      | This command starts a giveaway.                                          | "giveawaystart" | string |
 | giveawayRole | yes      | ID of a role, that is permitted to start giveaways. * default: @everyone | null            | string |
 | embedColor   | yes      | Color of the giveaway's embed.                                           | "#7aefe0"       | string |
