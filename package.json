@@ -1,6 +1,6 @@
 {
   "name": "discord.js-giveaway",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This package allows your bot to have a giveaways function easily.",
   "main": "index.js",
   "scripts": {
